@@ -8,14 +8,20 @@ I've noticed a fair amount of open source texts for things like programming lang
 
 <!-- toc -->
 
-- [Chemistry](#chemistry)
-- [Electrical Engineering](#electrical-engineering)
-- [Mathematics](#mathematics)
-- [Physics](#physics)
+- [Awesome Textbooks ![Awesome](https://awesome.re)](#awesome-textbooks-)
+  - [Contents](#contents)
+  - [Chemistry](#chemistry)
+  - [Electrical Engineering](#electrical-engineering)
+  - [Mathematics](#mathematics)
+  - [Physics](#physics)
 
 <!-- tocstop -->
 
 ## Chemistry
+
+- [Density functional theory: a practical introduction](http://www.nanoer.net/d/img/Density%20functional%20theory-a%20practical%20introduction411565.pdf) (David S. Sholl, Janice A. Steckel, 2009)
+- [Fundamental Concepts in Heterogeneous Catalysis](http://www.nanoer.net/d/img/fundamental%20concepts%20in%20heterogeneous%20catalysis-Jens_K._Nrskov,_Felix_Studt,_Frank_Abild-Pederse.pdf) (Jens K. Nørskov, Felix Studt, Frank Abild-Pedersen, 2009)
+- [Density Functional Theory for Beginners](http://www.attaccalite.com/wp-content/uploads/2017/04/pdf_DFT4beginners.pdf) (Fabio Finocchi, 2011)
 
 ## Electrical Engineering
 
