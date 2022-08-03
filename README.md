@@ -8,12 +8,10 @@ I've noticed a fair amount of open source texts for things like programming lang
 
 <!-- toc -->
 
-- [Awesome Textbooks ![Awesome](https://awesome.re)](#awesome-textbooks-)
-  - [Contents](#contents)
-  - [Chemistry](#chemistry)
-  - [Electrical Engineering](#electrical-engineering)
-  - [Mathematics](#mathematics)
-  - [Physics](#physics)
+- [Chemistry](#chemistry)
+- [Electrical Engineering](#electrical-engineering)
+- [Mathematics](#mathematics)
+- [Physics](#physics)
 
 <!-- tocstop -->
 
